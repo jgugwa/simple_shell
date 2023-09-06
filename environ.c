@@ -1,7 +1,8 @@
 /*
  * File: environ.c
- * Auth: Alex Yu
- * Date : 12 Aug 2023 @ 9.12 AM EAT
+ * Auth: daniel owino
+ * Auth: justus gugwa
+ * Date : 12 September 2023 @ 9.12 AM EAT
  */
 
 #include "shell.h"
