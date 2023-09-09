@@ -1,7 +1,8 @@
 /*
  * File: helpers_2.c
- * Auth: Alex Yu
- *       Brennan D Baraban
+ * Auth: Justus Gugwa
+ *       Daniel Owino
+ *  date 12 Sept 2023
  */
 
 #include "shell.h"
