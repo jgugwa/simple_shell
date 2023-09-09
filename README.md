@@ -50,5 +50,5 @@ Clone the below repository and compile the files into an executable using the GC
 https://github.com/jgugwa/simple_shell.git
 
 Contributors :
-Justus Gugwa \n
+Justus Gugwa &
 Daniel Owino
