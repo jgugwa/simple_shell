@@ -1,7 +1,8 @@
 /*
  * File: linkedlist.c
  * Auth: Justus Gugwa
- * Date: 16 aug 2023 @ 1400hrs 
+ *      :Daniel Owino
+ * Date: 14  sept  2023 @ 1400hrs
  */
 
 #include "shell.h"

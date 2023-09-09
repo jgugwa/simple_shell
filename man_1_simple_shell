@@ -182,4 +182,4 @@ access(
 .B Shellby\fR imitates basic \fBsh\fR shell functionality.
 This document draws inspiration from the sh(1) and dash(1) man pages.
 .SH AUTHOR
-Justus Gugwa & Awino Daniel
+Justus Gugwa & Owino Daniel
