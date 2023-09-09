@@ -1,7 +1,7 @@
 /*
  * File: err_msgs1.c
  * Auth: Justus Gugwa
- * Daniel owino
+ *       Daniel owino
  * Date: 10 sept 2023@ 1712hrs
  */
 

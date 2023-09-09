@@ -1,7 +1,8 @@
 /*
  * File: errors.c
  * Auth: Justus Gugwa
- * Date : 14 August 0025hrs
+ *      ; Daniel Owino
+ * Date : 11 sept 2023 0025hrs
  */
 
 #include "shell.h"
