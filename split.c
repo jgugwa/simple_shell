@@ -1,7 +1,8 @@
 /*
  * File: split.c
  * Auth: Justus Gugwa
- * Date :16 aug 2023 @ 1400 hrs
+ *      Daniel  Owino ;
+ * Date : 11 Sept  2023 @ 1400 hrs
  */
 
 #include "shell.h"

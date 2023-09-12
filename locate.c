@@ -1,7 +1,8 @@
 /*
  * File: locate.c
  * Auth: Justus Gugwa
- * Date :16 aug 2023 @ 1100 hrs
+ *       Daniel Owino
+ * Date :15 sept 2023 @ 1100 hrs
  */
 
 #include "shell.h"

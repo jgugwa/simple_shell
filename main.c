@@ -1,6 +1,7 @@
 /*
  * File: main.c
  * Auth: Justus Gugwa
+ *      : Daniel Owino
  * Date: 11 AUG 2023 @ 1300HRS 
  */
 

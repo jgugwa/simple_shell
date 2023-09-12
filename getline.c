@@ -1,8 +1,13 @@
 /*
  * File: getline.c
  * Auth: Justus Gugwa
+<<<<<<< HEAD
  * Auth: Daniel Owino
  * Date :15 sep 2023 @ 0800 hrs
+=======
+ *      : Daniel Owino
+ * Date : 12 Sept 2023 @ 0800 hrs
+>>>>>>> 2712f89c2e7aacca00ac4ff012bc6d308a4e2dfa
  */
 
 #include "shell.h"

@@ -9,7 +9,7 @@ Shell is a simple UNIX command interpreter that replicates functionalities of th
 This program was written entirely in C Language.
 
 COPYRIGHT
-Copyright (C) 2022 by Justus Gugwa and Daniel Owino
+Copyright (C) 2023 by Justus Gugwa & Daniel Owino
 All rights reserved
 
 Description :
@@ -50,5 +50,5 @@ Clone the below repository and compile the files into an executable using the GC
 https://github.com/jgugwa/simple_shell.git
 
 Contributors :
+Justus Gugwa &
 Daniel Owino
-Justus Gugwa

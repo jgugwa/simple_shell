@@ -1,7 +1,8 @@
 /*
  * File: helper.c
  * Auth: Justus Gugwa
- * DATE :19 Aug 2023 
+ *      :Daniel Owino
+ * DATE :11  Sept 2023
  */
 
 #include "shell.h"
