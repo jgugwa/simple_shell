@@ -1,7 +1,8 @@
 /*
  * File: getline.c
  * Auth: Justus Gugwa
- * Date :15 aug 2023 @ 0800 hrs
+ * Auth: Daniel Owino
+ * Date :15 sep 2023 @ 0800 hrs
  */
 
 #include "shell.h"
@@ -76,7 +77,7 @@ void assign_lineptr(char **lineptr, size_t *n, char *buffer, size_t b)
 			*n = b;
 		else
 			*n = 120;
-		*lineptr = buffer;
+		*lineptr = buffer; /* assign the buffer pointer *lineptr */
 	}
 	else if (*n < b)
 	{
@@ -84,7 +85,7 @@ void assign_lineptr(char **lineptr, size_t *n, char *buffer, size_t b)
 			*n = b;
 		else
 			*n = 120;
-		*lineptr = buffer;
+		*lineptr = buffer; /*assign the buffer pointer to *lineprt */
 	}
 	else
 	{

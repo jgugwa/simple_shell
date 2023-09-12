@@ -19,16 +19,16 @@ char **_getenv(const char *var);
  */
 char **_copyenv(void)
 {
-	char **new_environ;
-	size_t size;
-	int index;
+	char **new_environ; /*declare a pointer to a pointer*/
+	size_t size; /*declare a variable to store the size of the environ*/
+	int index; /*declare an index variable for loops*/
 
 	for (size = 0; environ[size]; size++)
 		;
 
 	new_environ = malloc(sizeof(char *) * (size + 1));
 	if (!new_environ)
-		return (NULL);
+		return (NULL); /*Null if memory allocation fails*/
 
 	for (index = 0; environ[index]; index++)
 	{

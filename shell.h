@@ -4,7 +4,8 @@
 /*
  * File: shell.h
  * Auth: Justus Gugwa
- * Date : 10 Aug 2023 @ 1125hrs EAT
+ * Auth: Daniel Owino
+ * Date : 14 Sep 2023 @ 1125hrs EAT
  */
 
 #include <fcntl.h>

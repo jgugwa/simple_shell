@@ -1,7 +1,8 @@
 /*
  * File: str_funcs1.c
  * Auth: Justus Gugwa
- * Date 17 aug 2023 
+ * Auth: Daniel Owino
+ * Date 15 sep 2023 
  */
 
 #include "shell.h"
