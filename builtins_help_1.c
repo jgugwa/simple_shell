@@ -35,7 +35,7 @@ void help_alias(void)
 {
 	char *msg = "alias: alias [NAME[='VALUE'] ...]\n\tHandles aliases.\n";
 
-	write(STDOUT_FILENO, msg, _strlen(msg));
+	write(STDOUT_FILENO, msg, _strlen(msg)); /*write the message to starndard output*/
 	msg = "\n\talias: Prints a list of all aliases, one per line, in ";
 	write(STDOUT_FILENO, msg, _strlen(msg));
 	msg = "the format NAME='VALUE'.\n\talias name [name2 ...]:prints";
@@ -57,7 +57,7 @@ void help_cd(void)
 {
 	char *msg = "cd: cd [DIRECTORY]\n\tChanges the current directory of the";
 
-	write(STDOUT_FILENO, msg, _strlen(msg));
+	write(STDOUT_FILENO, msg, _strlen(msg)); /* write the message to starndard output */
 	msg = " process to DIRECTORY.\n\n\tIf no argument is given, the ";
 	write(STDOUT_FILENO, msg, _strlen(msg));
 	msg = "command is interpreted as cd $HOME. If the argument '-' is";
